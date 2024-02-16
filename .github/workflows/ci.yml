@@ -46,4 +46,4 @@ jobs:
       - name: Lint
         run: pnpm lint
         env:
-          DATBASE_URL: ""
+          DATABASE_URL: ""
